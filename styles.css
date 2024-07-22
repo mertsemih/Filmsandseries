@@ -68,7 +68,7 @@ p {
 img {
     width: 100%;
     height: auto;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 0px solid #ffffff;
     margin-bottom: 10px;
     transition: transform 0.3s ease;
 }
